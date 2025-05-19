@@ -379,6 +379,6 @@ document.addEventListener('DOMContentLoaded', () => {
       td.textContent = cell;
       tr.appendChild(td);
     })
-  })
   table.appendChild(tr);
+  })
 })
